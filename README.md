@@ -46,7 +46,8 @@ Graph for questions
 
 
 ## V. VISUALIZATION AND DATA ANALYZATION
-![image](https://github.com/Tann1901/PowerBI-X_Ecommerce_Report/assets/108020327/a612543e-8b9a-46ce-bf1a-4e46c8e16354)
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/edfacd78-651e-4852-8276-750dbcbf9354)
+
 The chart shows that the product group with a high proportion ranges from 7.06%-8.76%. Reciprocal in value, these groups belong to the average low price level and the payment period is at 3 times. These groups also have high installment rates with an average of 2-4 payments. Average shipping costs range from $16-18.89.
 
 On the contrary, groups with high average prices such as computers, small_appliance_home_oven_and_coffee, home_appliance_2 have a low sales proportion of less than 1%. These groups have an average of 5.5 - 6 payments. Shipping costs range from $36-48
@@ -55,12 +56,12 @@ The graph shows highest proportion product group are: health_beauty, bed_bath_ta
 
 In contrast, the group with high value like computers, small_appliance_home_oven_and_coffee, home_appliance_2 having low selling rate at below 1%. Delivery fee is in range $36-48.
 
-![image](https://github.com/Tann1901/PowerBI-X_Ecommerce_Report/assets/108020327/b8cee551-2053-411e-9366-20f27c64ad2f)
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/e8401573-fa9e-45ab-9d88-78e99d7e91d2)
 The chart shows that SP is the leading state with a total order value of 7,546,092, followed by RJ, MG with values ​​of 2,744,633.48 and 2,309,697.32. Top sales with payment value > 1 million are in Brazil, followed by Barinas state of Venezuela and South Carolina in the US with values ​​of 788,505.45 and 778,699.09 respectively. Customers with the highest number of purchases are also located in Brazilian states, corresponding to the above statement about the distribution of order value.
 
 However, regarding the time of the most recent purchase, the parameters show that more than 60.35% of the most recent purchases were over 6 months ago, with only 5.66% of the purchases being made within the last 1 month.
 
-![image](https://github.com/Tann1901/PowerBI-X_Ecommerce_Report/assets/108020327/263099fa-ba08-41a1-8119-aabe9c02b122)
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/b6bcb60c-b7f9-4a53-8aad-0bfd4e614d03)
 Regarding payment services, credit cards account for the highest share with 76.84%. This plan also has many payment installments. Other options include cash, debit and vouchers with rates of 19.92%, 1.99% and 1.24%. These options only apply to 1 payment.
 
 Regarding delivery service, the time from purchase to shipping to customers will mostly be about 2 weeks with 38.5%, 1 week, ... however there are still 4.49% of orders with more than 60 days of delivery.
@@ -69,7 +70,7 @@ Correlating with the 1-star rating, we can see that delivery time from 30-60 day
 
 Unavailable orders belong to the electronics industry, which is also an area that needs attention
 
-![image](https://github.com/Tann1901/PowerBI-X_Ecommerce_Report/assets/108020327/1bd11396-6e4d-4237-a77c-215bc383ebdb)
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/72ed20fe-f0a9-4010-96d5-8661ae83ef88)
 **BUSINESS SITUATION**
 - From August 2017 until now, the business situation has developed and grown steadily. Average revenue reaches 1-1.2 million per month.
 
