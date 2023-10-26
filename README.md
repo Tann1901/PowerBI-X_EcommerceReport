@@ -1,6 +1,5 @@
 # PowerBI-X_EcommerceReport
 
-# PowerBI-X_Ecommerce_Report
 ## I. INTRODUCTION
 In this report, I present an overview of the business performance within the multi-sector E-commerce division spanning from 2016 to September 2018. The report delves into intricate details concerning services, products, customer demographics, and provides an encompassing assessment of the division's activities. 
 Additionally, I shall proffer recommendations for areas within the company that warrant improvement and enhancement.
