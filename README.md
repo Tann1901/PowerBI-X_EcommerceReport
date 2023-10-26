@@ -10,9 +10,9 @@ Graph for questions
 ## III. DATA UNDERSTANDING
 ### Entity Table
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/f4b9ee5b-466f-46fc-af95-ea14478a592e)
-![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/7aa62606-f2b7-4307-8a2a-9c6674c82704)
 
 ### Attribute
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/7aa62606-f2b7-4307-8a2a-9c6674c82704)
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/2a9039a5-3111-44cc-b79e-9c8c526607f4)
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/d6336c60-e1e3-4ebd-bb23-dad7a0579344)
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/461559d8-677c-4746-9916-c014e6856ca4)
