@@ -15,10 +15,12 @@ Graph for questions
 
 ### Attribute
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/2a9039a5-3111-44cc-b79e-9c8c526607f4)
-
-### Entity Diagram
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/d6336c60-e1e3-4ebd-bb23-dad7a0579344)
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/461559d8-677c-4746-9916-c014e6856ca4)
+
+### Entity Diagram
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/d0eecaca-4917-403b-8d53-23d0df2bb38b)
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/2687cd52-2abd-427b-8963-627786424460)
 
 ## IV. DATA CLEANING
 
