@@ -17,8 +17,6 @@ Graph for questions
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/2a9039a5-3111-44cc-b79e-9c8c526607f4)
 
 ### Entity Diagram
-![image](https://github.com/Tann1901/PowerBI-X_Ecommerce_Report/assets/108020327/9c74483d-a438-4233-bfe8-f6e4f2aef4e0)
-![image](https://github.com/Tann1901/PowerBI-X_Ecommerce_Report/assets/108020327/265070de-db1d-45b9-9a59-5ec41fbe5fe1)
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/d6336c60-e1e3-4ebd-bb23-dad7a0579344)
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/461559d8-677c-4746-9916-c014e6856ca4)
 
