@@ -61,6 +61,11 @@ The chart shows that SP is the leading state with a total order value of 7,546,0
 However, regarding the time of the most recent purchase, the parameters show that more than 60.35% of the most recent purchases were over 6 months ago, with only 5.66% of the purchases being made within the last 1 month.
 
 ![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/b6bcb60c-b7f9-4a53-8aad-0bfd4e614d03)
+Customers return within 1 month is very low at 5.66%, the largest proportion belongs to more than 6 month group of customers.
+Within returning customers, the frequency is not so ideal. Only one time visit accounted for 93.82% and the rest of 6.07% is within 2-4 times.
+In the positive sode, Customer Quantity has been increasing from 2016-2018 reaching above 50,000 in 2018. Most of revenue is generated along America continent and very few in Middle East aarea.
+
+![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/72ed20fe-f0a9-4010-96d5-8661ae83ef88)
 Regarding payment services, credit cards account for the highest share with 76.84%. This plan also has many payment installments. Other options include cash, debit and vouchers with rates of 19.92%, 1.99% and 1.24%. These options only apply to 1 payment.
 
 Regarding delivery service, the time from purchase to shipping to customers will mostly be about 2 weeks with 38.5%, 1 week, ... however there are still 4.49% of orders with more than 60 days of delivery.
@@ -68,8 +73,6 @@ Regarding delivery service, the time from purchase to shipping to customers will
 Correlating with the 1-star rating, we can see that delivery time from 30-60 days has a very high 1-star rate (53.91%), > 60 days will lead to 59.46%.
 
 Unavailable orders belong to the electronics industry, which is also an area that needs attention
-
-![image](https://github.com/Tann1901/PowerBI-X_EcommerceReport/assets/108020327/72ed20fe-f0a9-4010-96d5-8661ae83ef88)
 **BUSINESS SITUATION**
 - From August 2017 until now, the business situation has developed and grown steadily. Average revenue reaches 1-1.2 million per month.
 
